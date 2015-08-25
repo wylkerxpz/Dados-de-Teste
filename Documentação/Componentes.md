@@ -1,4 +1,0 @@
-# Lista de Componentes do Grupo
-
--Leonardo Rocha Campos
--Wylker Moreno da Silva - 110271
